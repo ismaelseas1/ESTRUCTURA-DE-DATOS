@@ -1,0 +1,7 @@
+C:\PROGRAMACION 2\ESTRUCTURA DE DATOS\tareaColas2\bin\Debug\tareaColas2.exe.config
+C:\PROGRAMACION 2\ESTRUCTURA DE DATOS\tareaColas2\bin\Debug\tareaColas2.exe
+C:\PROGRAMACION 2\ESTRUCTURA DE DATOS\tareaColas2\bin\Debug\tareaColas2.pdb
+C:\PROGRAMACION 2\ESTRUCTURA DE DATOS\tareaColas2\obj\Debug\tareaColas2.csproj.AssemblyReference.cache
+C:\PROGRAMACION 2\ESTRUCTURA DE DATOS\tareaColas2\obj\Debug\tareaColas2.csproj.CoreCompileInputs.cache
+C:\PROGRAMACION 2\ESTRUCTURA DE DATOS\tareaColas2\obj\Debug\tareaColas2.exe
+C:\PROGRAMACION 2\ESTRUCTURA DE DATOS\tareaColas2\obj\Debug\tareaColas2.pdb
